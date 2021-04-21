@@ -1,2 +1,5 @@
 .vscode/
 /*.exe
+db/beds.csv
+db/doctor.csv
+db/patient.csv
